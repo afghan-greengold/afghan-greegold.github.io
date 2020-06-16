@@ -2,6 +2,7 @@
 date: 2020-06-16 14:00:00
 title: Mon premier article
 categories:
+  - Catégorie 1
 description:
 type: Document
 ---
