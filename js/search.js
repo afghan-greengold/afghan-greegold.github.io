@@ -79,7 +79,7 @@ layout: null
 			searchProcessEl.innerText = "No";
 		}
 	}
-
+ 
 	window.index = lunr(function () {
 		this.field("id");
 		this.field("title", {boost: 10});

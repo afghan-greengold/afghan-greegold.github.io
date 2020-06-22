@@ -8,6 +8,7 @@ body {
 	min-height: 100vh;
 	color: $dark-grey;
 	-webkit-font-smoothing: antialiased;
+direction: rtl;
 }
 
 h2, h2 a {
@@ -24,7 +25,7 @@ h4 {
 
 img {
 	max-width: 100%;
-}
+} 
 
 ul, ol {
 	margin-top: 20px;
