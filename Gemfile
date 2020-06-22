@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.7.4'
+gem 'jekyll', ">= 3.7.4"
 gem "nokogiri", ">= 1.10.8"
 gem "ffi", ">= 1.9.24"
 
