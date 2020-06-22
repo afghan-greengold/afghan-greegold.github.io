@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Base
+title: Greengold
 url: "https://orange-ape.cloudvent.net/"
-baseurl:
+baseurl: "http://greengold.fr/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
