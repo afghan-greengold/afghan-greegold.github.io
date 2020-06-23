@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '3.7.4'
-gem "github-pages"
+gem 'github-pages', group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '2.1.1'
